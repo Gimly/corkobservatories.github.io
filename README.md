@@ -1,5 +1,5 @@
 ## Welcome to the new HOME for the corkobservatories.org website
-The original [corkobservatories.org](http://mercury.uvic.ca/~corks/pmwiki/pmwiki.php?n=Main.HomePage) never really got adopted and is pretty outdated, now. We also tried out [Goolge Sites](https://sites.google.com/site/corkobservatories/) and were not all that convinced. Now, we are deciding (issue #1) if we should move corkobservatories.org here...
+The original [corkobservatories.org](http://mercury.uvic.ca/~corks/pmwiki/pmwiki.php?n=Main.HomePage) never really got adopted and is pretty outdated, now. We also tried out [Goolge Sites](https://sites.google.com/site/corkobservatories/) and were not all that convinced. Now, [we are deciding](https://github.com/corkobservatories/corkobservatories.github.io/issues/1) if we should move corkobservatories.org here...
 
 Pages could be quickly drafted in the local [Wiki](https://github.com/corkobservatories/corkobservatories.github.io/wiki) and when ready published on the [www.corkobservatories.org](https://corkobservatories.github.io/) webpage (would need to link the domain).
 
